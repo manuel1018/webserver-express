@@ -1,0 +1,19 @@
+body {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+footer {
+    background-color: #353A3F;
+    color: white;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    text-align: center;
+    padding: 10px;
+}
+
+.jumbotron {
+    background-color: rgb(189, 230, 226);
+}
